@@ -18,9 +18,9 @@ va na sua barra de pesquisar do ruindows(brincadeira) e digite "editar as variav
 depois va em avançado, e clique em variaveis de ambiente.
 agora va na parte "variaveis do sistema" e procure por PATH, apos clicar va no butão "novo" e coloque o local onde você instalou o mingw.
 (que no meu caso foi: "C:\MinGW\bin").
-apos isso tudo renicie seu pc pra eviar dar merda (falo por experiencia).
+apos isso tudo renicie seu pc pra evitar dar merda (falo por experiencia).
 
-*Como rodar*
+*Como rodar:*
 agora com tudo isso feito veja onde esta o main.cpp e abra uma janela powershell(ou cmd se preferir), (segure a tecla shift e clica com butão direito que ele vai mostrar "abrir janela powershell aqui").
 e agora digite "g++ main.cpp -o nome_que_vc_quer" (sem as aspas). ai ele vai gerar o exe do progama pra vc testar.
 
